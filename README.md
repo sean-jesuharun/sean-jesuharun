@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sean Jesuharun</h1>
 
-# 💫 About Me:
+<!--- # 💫 About Me:  --->
 <!---🔭 I’m currently working on<br> ---> 
 👯 I’m looking to collaborate on AI/ML related Projects.<br>
 <!---🤝 I’m looking for help with<br> --->
