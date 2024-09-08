@@ -13,12 +13,14 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sean-jesuharun&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sean-jesuharun&theme=dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sean-jesuharun&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sean-jesuharun&theme=dark&hide_border=true" />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-jesuharun&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-jesuharun&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 
