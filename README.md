@@ -1,6 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on AI/ML related Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ I am all about mastering the basics! while fancy tech buzz words fly around.
+<h1 align="center">Hi 👋, I'm Sean Jesuharun</h1>
 
+# 💫 About Me:
+<!---🔭 I’m currently working on<br> ---> 
+👯 I’m looking to collaborate on AI/ML related Projects.<br>
+<!---🤝 I’m looking for help with<br> --->
+<!---🌱 I’m currently learning<br> --->
+<!---💬 Ask me about<br> --->
+⚡ I am all about mastering the basics! while fancy tech buzz words fly around.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SeanJesuharun) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sean_jesuharun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-jesuharun) 
